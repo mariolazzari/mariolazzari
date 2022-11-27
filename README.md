@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [my new personal web site](https://github.com/mariolazzari/mariolazzari-next)
 
-- 🌱 I’m currently learning **Crypto currencies and blockchain**
+- 🌱 I’m currently learning **Fastify with TypeScript support**
 
 - 👨‍💻 All of my projects are available at [https://mariolazzari.it](https://mariolazzari.it)
 
-- 💬 Ask me about **MERN stack**
+- 💬 Ask me about **JavaScript / TypeScript full stack**
 
 - 📫 How to reach me **mario.lazzari@gmail.com**
 
