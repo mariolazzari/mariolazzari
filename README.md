@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mariolazzari" alt="mariolazzari" /></a> </p>
 
-- 🔭 I’m currently working on [my new personal web site](https://github.com/mariolazzari/mariolazzari-next)
+- 🔭 I’m currently working on [rsysinfo](https://github.com/mariolazzari/rsysinfo)
 
 - 🌱 I’m currently learning **Fastify with TypeScript support**
 
