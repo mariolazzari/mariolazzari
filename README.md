@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [rsysinfo](https://github.com/mariolazzari/rsysinfo)
 
-- 🌱 I’m currently learning **Fastify with TypeScript support**
+- 🌱 I’m currently completing **Full stack LinkedIn learning path**
 
 - 👨‍💻 All of my projects are available at [https://mariolazzari.it](https://mariolazzari.it)
 
