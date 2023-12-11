@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mariolazzari" alt="mariolazzari" /></a> </p>
 
-- 🔭 I’m currently working on [rnasa-api](https://github.com/mariolazzari/nasa-api)
+- 🔭 I’m currently working on [nasa-api](https://github.com/mariolazzari/nasa-api)
 
-- 🌱 I’m currently completing **Full stack LinkedIn learning path**
+- 🌱 I’m currently completing **nasa-api**:[npm package](https://www.npmjs.com/package/@mariolazzari/nasa-api)
 
 - 👨‍💻 All of my projects are available at [https://mariolazzari.it](https://mariolazzari.it)
 
