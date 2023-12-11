@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [nasa-api](https://github.com/mariolazzari/nasa-api)
 
-- 🌱 I’m currently completing **nasa-api**:[npm package](https://www.npmjs.com/package/@mariolazzari/nasa-api)
+- 🌱 I’m currently completing **nasa-api** [npm package](https://www.npmjs.com/package/@mariolazzari/nasa-api)
 
 - 👨‍💻 All of my projects are available at [https://mariolazzari.it](https://mariolazzari.it)
 
